@@ -3,21 +3,11 @@ var letter=prompt("enter the letter: ")  ;
 letter=letter.toLowerCase();
 
 switch(letter){
-    case "a":
-        document.write("The letter is Vowel");
-        break;
-    case "e":
-        document.write("The letter is Vowel");
-        break;    
+    case "a":   
+    case "e":   
     case "i":
-        document.write("The letter is Vowel");
-        break;   
-
     case "o":
-        document.write("The letter is Vowel");
-        break;
-
-     case "u":
+    case "u":
         document.write("The letter is Vowel");
         break;
 
